@@ -1,0 +1,26 @@
+{
+  "name": "nodewithreactcourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines":{
+    "node":"10.4.1",
+    "npm":"6.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstebanVargas10/NodeWithReactCourse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstebanVargas10/NodeWithReactCourse/issues"
+  },
+  "homepage": "https://github.com/EstebanVargas10/NodeWithReactCourse#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
