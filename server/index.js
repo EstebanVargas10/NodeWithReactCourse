@@ -7,5 +7,6 @@ app.get('/', (req, res) => {
 })
 
 //El de variable o el puerto por defecto
-const PORT = process.env.PORT || 5000;
-app.listen(PORT);
+// const PORT = process.env.PORT || 5000;
+var port = process.env.PORT || 5000
+app.listen(port);
